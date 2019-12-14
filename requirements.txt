@@ -1,0 +1,6 @@
+torch==0.4.1
+git+git://github.com/allenai/allennlp@0542c5a6be82461e8be569125ab6f43c65f55c39
+tqdm
+pylint
+pytest
+pytest-cov
